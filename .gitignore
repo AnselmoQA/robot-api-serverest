@@ -1,0 +1,16 @@
+# Ambiente virtual
+venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Resultados Robot
+output.xml
+log.html
+report.html
+results/
+
+# IDE
+.vscode/
+.idea/
